@@ -58,7 +58,7 @@
     "nodemon": "^1.19.2",
     "nyc": "^14.1.1",
     "parser": "^0.1.4",
-    "sharp": "^0.23.0",
+    "sharp": "^0.30.5",
     "swagger-ui-express": "^4.1.1",
     "uuidv4": "^5.0.1"
   },
